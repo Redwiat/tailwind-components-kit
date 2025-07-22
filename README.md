@@ -3,8 +3,6 @@
 A modern, copy-paste-ready Tailwind CSS UI component kit!  
 Perfect for web developers, startups, SaaS, and anyone building with Tailwind CSS.
 
-![Demo Screenshot](public/demo.jpg)
-
 ---
 
 ## ✨ Features
@@ -42,8 +40,6 @@ Perfect for web developers, startups, SaaS, and anyone building with Tailwind CS
 ---
 
 ## 🌍 Live Demo
-
-*(Add your Vercel/Netlify link here after deploying!)*
 
 ---
 

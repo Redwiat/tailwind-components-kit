@@ -72,4 +72,4 @@ MIT — free for personal & commercial use.
 
 ---
 
-### 👋 Made with ❤️ by [Redwan (Redwiat)](https://github.com/Redwiat) — [Ocoxe LLC](https://ocoxe.com)
+### 👋 Made with ❤️ by [Redwan (Redwiat)](https://github.com/Redwiat) — [Ocoxe](https://ocoxe.com)
